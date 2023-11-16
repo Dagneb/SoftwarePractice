@@ -1,2 +1,2 @@
-# GitMasteryChallenge
+# GitMater
 Software engineering assignment 
